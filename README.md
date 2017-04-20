@@ -18,3 +18,6 @@ python\[3\] -m ipykernel install --user --name \<myenv\> --display-name "Python 
 remove kernel (when the env is activated):<br>
 jupyter kernelspec list<br>
 jupyter kernelspec remove \<the kernel name\><br>
+
+
+Aaa
